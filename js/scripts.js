@@ -34,11 +34,12 @@ function handleTest(event) {
     result = "You should look into C++!";  
   }
     else {return}
+      result = "You should learn Java Script as you can never go wrong with it!"
 
   document.getElementById("output").innerText = result;
 
 
 window.addEventListener("load", function() {
   const form = document.getElementById("Test");
-  form.addEventListener("submit", handleCalculation);
+  form.addEventListener("submit", handleTest);
 });

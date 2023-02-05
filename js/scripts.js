@@ -9,7 +9,6 @@
       const answer3 = document.querySelector("input[type=radio][name=Q3]:checked").value;
       const answer4 = document.querySelector("input[type=radio][name=Q4]:checked").value;
       const answer5 = document.querySelector("input[type=radio][name=Q5]:checked").value;
-      console.log(answer1, answer2, answer3, answer4, answer5)
 
 // User Interface Logic
 

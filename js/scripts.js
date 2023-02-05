@@ -4,6 +4,7 @@
     const form = document.getElementById("Test");
     form.addEventListener("submit", function(event) { 
       event.preventDefault();
+
       const answer1 = document.querySelector("input[type=radio][name=Q1]:checked").value;
       const answer2 = document.querySelector("input[type=radio][name=Q2]:checked").value;
       const answer3 = document.querySelector("input[type=radio][name=Q3]:checked").value;

@@ -34,7 +34,7 @@ https://github.com/TheEPICturkey/LanguageSelector.git_
 
 _If any issues with the website occur, please feel free to email me at brandon.spear@comcast.net_
 
-Copyright (c) <2022> <Copyright Brandon Spear>
+Copyright (c) <2023> <Copyright Brandon Spear>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -22,6 +22,8 @@
         result = "You should look into C++! The programming language known as C++ (or “C-plus-plus”) is a general purpose coding language which has been used for game programming, software engineering, data structures, developing browsers, operating systems, applications, and more for over forty years.";
       } else if (answer1 === "1" && answer2 === "1" && answer3 === "2" && answer4 === "3" && answer5 === "2") {
         result = "Check out EPICODUS!";  
+      } else if (answer1 === "1" && answer2 === "2" && answer3 === "2" && answer4 === "2" && answer5 === "2") {
+        result = "You should check out Hardware engineering!";
       } else {
         result = "You should look into java script! Check out Epicodus for a great coding school! JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well."
     }
